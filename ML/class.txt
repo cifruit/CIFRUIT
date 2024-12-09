@@ -1,0 +1,1 @@
+{'buahnaga_busuk': 0, 'buahnaga_matang': 1, 'buahnaga_mentah': 2, 'jeruk_busuk': 3, 'jeruk_matang': 4, 'jeruk_mentah': 5, 'pepaya mentah': 6, 'pepaya_busuk': 7, 'pepaya_matang': 8, 'pisang_busuk': 9, 'pisang_matang': 10, 'pisang_mentah': 11, 'rambutan mentah': 12, 'rambutan_busuk': 13, 'rambutan_matang': 14}
