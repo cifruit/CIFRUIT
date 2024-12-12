@@ -14,7 +14,7 @@ Inspired by the success of the Mangunan Fruit Garden in Bantul, which has become
 | 1  | M179B4KX4270   | Syifa Aura Arasy    | Universitas Ahmad Dahlan    | [GitHub](https://github.com/user1)|
 | 2  | M179B4KX0468   | Ammara Desma Marzooqa| Universitas Ahmad Dahlan    | [GitHub](https://github.com/user2)|
 | 3  | M015B4KX2019   | Isna Septi Wahyuni  | Universitas Negeri Yogyakarta | [GitHub](https://github.com/user3)|
-| 4  | C179B4KX0394   | Alifia Amalia Azzara| Universitas Ahmad Dahlan    | [GitHub](https://github.com/user4)|
+| 4  | C179B4KX0394   | Alifia Amalia Azzara| Universitas Ahmad Dahlan    | [GitHub](https://github.com/alifiaamalia)|
 | 5  | C179B4KY0465   | Amirul Mabruri      | Universitas Ahmad Dahlan    | [GitHub](https://github.com/Amrl666)|
 | 6  | A179B4KY2350   | M. Milky Gazura     | Universitas Ahmad Dahlan    | [GitHub](https://github.com/user6)|
 | 7  | A179B4KY0669   | Arvin Sultan Satria | Universitas Ahmad Dahlan    | [GitHub](https://github.com/user7)|
