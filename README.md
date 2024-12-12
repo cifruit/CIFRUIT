@@ -27,24 +27,6 @@ Aplikasi:
 ![Alt Text](D:\CIFRUIT\screenshotsapp\buatakun)
 
 
-
-
-
-## Overview
-Berikan gambaran umum tentang proyek Anda, termasuk tujuan, manfaat, dan alasan pengembangan aplikasi.
-
-## Features
-Jelaskan fitur utama aplikasi Anda:
-- **Fitur 1**: Deskripsi fitur 1.
-- **Fitur 2**: Deskripsi fitur 2.
-- **Fitur 3**: Deskripsi fitur 3.
-
-## Installation
-Langkah-langkah untuk menginstal aplikasi:
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/username/repository.git
-
 ## Problem Statement
 
 Determining the right time to harvest fruit can be challenging for many farmers, leading to issues such as:
