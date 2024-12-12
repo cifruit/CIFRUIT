@@ -24,6 +24,8 @@ Inspired by the success of the Mangunan Fruit Garden in Bantul, which has become
 
 ## Mobile Development 
 Aplikasi:
+
+
 <img src="github_assets/buatakun.jpg" alt="buatakun" width="200" style="float: right;"/>
 <img src="github_assets/halamanawal.jpg" alt="halamanawal" width="200" style="float: right;"/>
 <img src="github_assets/halamanawal2.jpg" alt="halamanawal 2" width="200" style="float: right;"/>
