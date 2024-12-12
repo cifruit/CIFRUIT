@@ -55,7 +55,6 @@ Tech Stacks:
 <div style="text-align: right;">
     <video width="600" controls style="display: inline-block;">
         <source src="github_assets/demoaplikasicifruit.mp4" type="video/mp4">
-        <source src="github_assets/demoaplikasicifruit.webm" type="video/webm"> <!-- Tambahkan format lain jika ada -->
         Your browser does not support the video tag.
     </video>
 </div>
