@@ -23,7 +23,7 @@ Inspired by the success of the Mangunan Fruit Garden in Bantul, which has become
 # Project Documentation
 
 ## Mobile Development 
-Aplikasi:
+Aplication:
 
 <div style="text-align: right;">
     <img src="github_assets/buatakun.jpg" alt="buatakun" width="200" style="display: inline-block;"/>
@@ -38,6 +38,15 @@ Aplikasi:
     <img src="github_assets/riwayatpindai.jpg" alt="riwayat Pindai" width="200" style="display: inline-block;"/>
 </div>
 
+## Cloud Computing 
+Cloud Computing Architecture Design
+<div style="text-align: right;">
+    <img src="github_assets/arsitektur.jpg" alt="arsitektur" width="200" style="display: inline-block;"/>
+</div>
+
+## Machine Learning
+Machine Learning Model and Training History: 
+
 ## Problem Statement
 
 Determining the right time to harvest fruit can be challenging for many farmers, leading to issues such as:
@@ -46,7 +55,6 @@ Determining the right time to harvest fruit can be challenging for many farmers,
 Overripe fruits, leading to spoilage and waste.
 - Inefficient post-harvest handling, increasing food waste.
 - Our solution aims to provide an efficient, non-destructive way of determining fruit ripeness, thus enhancing harvest decisions and reducing waste.
-
 
 
 ## Project Goal
@@ -62,8 +70,7 @@ Our team’s inspiration for this project stems from a shared passion for solvin
 With our combined expertise in machine learning, mobile application development, and cloud computing, we brainstormed innovative ways to tackle this problem. The idea of using machine learning for fruit ripeness detection via image recognition emerged as a simple yet effective solution. This project is designed to empower farmers, distributors, and consumers by offering an easy-to-use tool for assessing fruit ripeness, thereby promoting more sustainable and efficient agricultural practices.
 
 
-And of course CIFRUIT itself is open source with a [https://github.com/cifruit/CIFRUIT.git][dill]
- on GitHub.
+And of course CIFRUIT itself is open source with a [https://github.com/cifruit/CIFRUIT.git] on GitHub.
 
 ## Key Features
 - Machine Learning Model: Utilizes image recognition to classify fruit ripeness levels.
