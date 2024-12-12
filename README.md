@@ -24,8 +24,16 @@ Inspired by the success of the Mangunan Fruit Garden in Bantul, which has become
 
 ## Mobile Development 
 Aplikasi:
-![buatakun](github_assets/buatakun.jpg)
-![halamanawal](github_assets/halamanawal.jpg)
+<img src="github_assets/buatakun.jpg" alt="buatakun" width="200" style="float: right;"/>
+<img src="github_assets/halamanawal.jpg" alt="halamanawal" width="200" style="float: right;"/>
+<img src="github_assets/halamanawal2.jpg" alt="halamanawal 2" width="200" style="float: right;"/>
+<img src="github_assets/logincifruit.jpg" alt="logincifruit" width="200" style="float: right;"/>
+<img src="github_assets/menu.jpg" alt="menu" width="200" style="float: right;"/>
+<img src="github_assets/menuu.jpg" alt="menuu" width="200" style="float: right;"/>
+<img src="github_assets/pindai1.jpg" alt="pindai1" width="200" style="float: right;"/>
+<img src="github_assets/profilcifruit.jpg" alt="profilcifruit" width="200" style="float: right;"/>
+<img src="github_assets/riwayat.jpg" alt="riwayat" width="200" style="float: right;"/>
+<img src="github_assets/riwayatpindai.jpg" alt="riwayat Pindai" width="200" style="float: right;"/>
 
 ## Problem Statement
 
