@@ -41,7 +41,7 @@ Aplication:
 ## Cloud Computing 
 Cloud Computing Architecture Design
 <div style="text-align: right;">
-    <img src="github_assets/arsitektur.jpg" alt="arsitektur" width="200" style="display: inline-block;"/>
+    <img src="github_assets/arsitektur.png" alt="arsitektur" width="200" style="display: inline-block;"/>
 </div>
 
 ## Machine Learning
