@@ -41,7 +41,7 @@ Aplication:
 ## Cloud Computing 
 Cloud Computing Architecture Design
 <div style="text-align: right;">
-    <img src="github_assets/arsitektur.png" alt="arsitektur" width="200" style="display: inline-block;"/>
+    <img src="github_assets/arsitektur.png" alt="arsitektur" width="400" style="display: inline-block;"/>
 </div>
 
 ## Machine Learning
@@ -49,7 +49,7 @@ Machine Learning Model and Training History
 
 Tech Stacks:
 <div style="text-align: right;">
-    <img src="github_assets/techstacks.jpg" alt="techstacks" width="200" style="display: inline-block;"/>
+    <img src="github_assets/techstacks.jpg" alt="techstacks" width="400" style="display: inline-block;"/>
 </div>
 
 ## Problem Statement
