@@ -24,8 +24,8 @@ Inspired by the success of the Mangunan Fruit Garden in Bantul, which has become
 
 ## Mobile Development 
 Aplikasi:
-![Alt Text](D:\CIFRUIT\screenshotsapp\buatakun)
-
+![buatakun](github_assets/buatakun.jpg)
+![halamanawal](github_assets/halamanawal.jpg)
 
 ## Problem Statement
 
