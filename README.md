@@ -41,7 +41,7 @@ Aplication:
 ## Cloud Computing 
 Cloud Computing Architecture Design
 <div style="text-align: right;">
-    <img src="github_assets/arsitektur.png" alt="arsitektur" width="400" style="display: inline-block;"/>
+    <img src="github_assets/arsitektur.png" alt="arsitektur" width="600" style="display: inline-block;"/>
 </div>
 
 ## Machine Learning
@@ -49,17 +49,16 @@ Machine Learning Model and Training History
 
 Tech Stacks:
 <div style="text-align: right;">
-    <img src="github_assets/techstacks.jpg" alt="techstacks" width="400" style="display: inline-block;"/>
+    <img src="github_assets/techstacks.jpg" alt="techstacks" width="600" style="display: inline-block;"/>
 </div>
 
-## Problem Statement
 
-Determining the right time to harvest fruit can be challenging for many farmers, leading to issues such as:
+#How use this app?
+Demo with camera:
 
-- Premature harvesting, resulting in underdeveloped, lower-quality produce.
-Overripe fruits, leading to spoilage and waste.
-- Inefficient post-harvest handling, increasing food waste.
-- Our solution aims to provide an efficient, non-destructive way of determining fruit ripeness, thus enhancing harvest decisions and reducing waste.
+
+
+
 
 
 ## Project Goal
