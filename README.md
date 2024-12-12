@@ -45,7 +45,12 @@ Cloud Computing Architecture Design
 </div>
 
 ## Machine Learning
-Machine Learning Model and Training History: 
+Machine Learning Model and Training History
+
+Tech Stacks:
+<div style="text-align: right;">
+    <img src="github_assets/techstacks.jpg" alt="techstacks" width="200" style="display: inline-block;"/>
+</div>
 
 ## Problem Statement
 
@@ -68,7 +73,6 @@ How We Came Up with This Project
 Our team’s inspiration for this project stems from a shared passion for solving agricultural challenges and improving food quality. While researching agricultural processes, we discovered the difficulties farmers and consumers face in determining the optimal ripeness of fruit. We realized that an accurate ripeness detection system could not only enhance product quality but also significantly reduce food waste.
 
 With our combined expertise in machine learning, mobile application development, and cloud computing, we brainstormed innovative ways to tackle this problem. The idea of using machine learning for fruit ripeness detection via image recognition emerged as a simple yet effective solution. This project is designed to empower farmers, distributors, and consumers by offering an easy-to-use tool for assessing fruit ripeness, thereby promoting more sustainable and efficient agricultural practices.
-
 
 And of course CIFRUIT itself is open source with a [https://github.com/cifruit/CIFRUIT.git] on GitHub.
 
