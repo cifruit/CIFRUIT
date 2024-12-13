@@ -100,3 +100,8 @@ Partnerships with Farmers and Distributors: Collaborate with agricultural stakeh
 
 ## Contribute
 We welcome contributions to CIFRUIT! Whether you're interested in helping improve the machine learning model, enhancing the mobile application, or supporting the project in other ways, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
