@@ -27,7 +27,7 @@ Inspired by the success of the Mangunan Fruit Garden in Bantul, which has become
 # Project Documentation
 
 ## Mobile Development 
-Aplication:
+Aplication: https://www.mediafire.com/file/hjx1i6kific3wnb/CIFRUIT.apk/file
 
 <div style="text-align: right;">
     <img src="github_assets/buatakun.jpg" alt="buatakun" width="200" style="display: inline-block;"/>
