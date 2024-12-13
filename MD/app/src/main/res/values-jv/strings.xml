@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="matang">Woh sing mateng, langsung dipangan kanggo rasa sing paling enak.</string>
+    <string name="mentah">Woh sing durung mateng, simpen sik nganti mateng sadurunge dipangan.</string>
+    <string name="busuk">Woh bosok dianjurake kanggo dibuwang utawa digawe pupuk kompos.</string>
+    <string name="header_konfirm_hapus_riwayat">Konfirmasi Pambusakan</string>
+    <string name="y">Iyo</string>
+    <string name="hapus">Busak</string>
+    <string name="g">Ora</string>
+    <string name="logout">Yakin arep metu?</string>
+    <string name="header_scan">Pindai Wohmu</string>
+    <string name="header_result">Asil Pindai</string>
+    <string name="header_riwayat">Riwayat Pindai</string>
+    <string name="header_detail_riwayat">Detail Riwayat</string>
+    <string name="konfirm_hapus">Yakin arep mbusak riwayat iki?</string>
+    <string name="berhasil_hapus">Data kasil dibusak</string>
+    <string name="header_gagal_pindai">Duh, Pindai Ora Kasil</string>
+    <string name="teks_gagal">Prediksine ora cetha, coba nganggo foto liyane?</string>
+    <string name="toast_gagal">Gambar wis dibusak, coba pilih gambar liyane.</string>
+    <string name="riwayat_berhasil">Riwayat kasil disimpen</string>
+    <string name="hint">Tulis Jenengmu</string>
+    <string name="app_name">CIFRUIT</string>
+    <string name="welcome">Sugeng Rawuh</string>
+    <string name="desc_welcome_1">CIFRUIT mbantu sampeyan ndeteksi tingkat matenge woh mung nganggo foto. Gampang lan cepet!</string>
+    <string name="desc_welcome_2">Temokake tingkat matenge woh lan solusi paling apik kanggo njaga wohmu mateng sing sampurna.</string>
+    <string name="desc_welcome_3">Ayo miwiti perjalananmu karo CIFRUIT kanggo ngawasi tingkat matenge woh sing luwih tepat!</string>
+    <string name="next">Sabanjure</string>
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="register">Daftar</string>
+    <string name="login">Mlebu</string>
+    <string name="email">Email</string>
+    <string name="password">Sandhi</string>
+    <string name="dont_have_account">Durung nduwe akun?</string>
+    <string name="create_account">Gawe Akun</string>
+    <string name="name">Jeneng</string>
+    <string name="have_account">Wis nduwe akun?</string>
+    <string name="error_password_length">Sandhi minimal 8 karakter!</string>
+    <string name="error_invalid_email">Alamat email ora valid</string>
+    <string name="title_home">Omah</string>
+    <string name="title_scan">Pindai</string>
+    <string name="title_profile">Profil</string>
+    <string name="ambil_dari_kamera">Njupuk Saka Kamera</string>
+    <string name="ambil_dari_galeri">Njupuk Saka Galeri</string>
+    <string name="pindaikan">Pindai</string>
+    <string name="profile_photo">Foto Profil</string>
+    <string name="exit">Metu</string>
+    <string name="edit_photo">Sunting Foto</string>
+    <string name="rambutan">Rambutan</string>
+    <string name="buah_naga">Woh Naga</string>
+    <string name="pepaya">Kates</string>
+    <string name="jeruk">Jeruk</string>
+    <string name="pisang">Gedhang</string>
+
+    <string name="pisang_title">Gedhang</string>
+    <string name="pisang_description">Gedhang iku woh sing kondhang ing saindenging jagad. Woh iki asalé saka tanduran Musa sing biasane dawa lan rada mlengkung, nganggo kulit kuning, ijo, utawa abang gumantung varietase. Isine putih nganti kuning, empuk, lan manis.
+
+        \n\nGedhang sugih nutrisi penting kaya karbohidrat, vitamin B6, vitamin C, kalium, lan serat. Woh iki dadi sumber energi sing apik lan migunani kanggo pencernaan, jantung, lan tekanan getih.
+    </string>
+
+    <string name="jeruk_title">Jeruk</string>
+    <string name="jeruk_description">Jeruk iku woh sing kondhang banget amarga rasa seger lan kandhungan vitamin C sing dhuwur. Woh iki asalé saka wit jeruk ing genus Citrus.
+
+    \n\nJeruk biasane bunder nganggo kulit rada kandel lan warna oranye cerah. Sawetara varietas nduwéni kulit warna kuning utawa ijo. Isine kapérang dadi pirang-pirang segmen, rasa manis utawa kecut gumantung varietase.
+
+    \n\nJeruk sugih vitamin C, serat, lan antioksidan sing apik. Vitamin C penting kanggo njaga kekebalan awak, kesehatan kulit, lan mbantu nyerep zat besi. Kajaba iku, jeruk uga nduwéni vitamin B, kalium, lan folat.
+    </string>
+
+    <string name="pepaya_title">Kates</string>
+    <string name="pepaya_description">Kates iku woh tropis sing enak lan seger kanthi akeh manfaat kanggo kesehatan. Woh iki asalé saka tanduran Carica papaya sing urip ing wilayah tropis lan subtropis.
+
+\n\nKates biasane dawa utawa bunder kanthi kulit ijo nalika isih mentah, banjur dadi kuning utawa oranye nalika wis mateng. Isine oranye abang nganti kuning, alus, lan rasa manis sing khas. Ing tengah woh ana wiji cilik ireng.
+
+\n\nKates sugih vitamin C, vitamin A, serat, lan antioksidan. Woh iki dikenal kanggo mbantu pencernaan, ningkatake kekebalan, lan njaga kesehatan mata.</string>
+
+    <string name="buahnaga_title">Woh Naga</string>
+    <string name="buahnaga_description">Woh naga kanthi tampilan sing eksotis lan warna-warna cerah iku woh tropis sing tambah kondhang. Woh iki asalé saka kaktus genus Hylocereus lan Selenicereus.
+
+\n\nKulit woh naga nduwéni tekstur unik kaya sisik naga. Ana sawetara varietas woh naga nganggo warna kulit beda, kaya abang cerah, abang peteng, lan kuning. Isine biasane putih utawa abang karo wiji ireng cilik sing kasebar ing jerone. Teksture alus lan seger, manis rada asem, kaya campuran kiwi lan pir.
+
+\n\nWoh naga sugih nutrisi, kalebu vitamin C, vitamin B, serat, lan antioksidan. Woh iki dikenal kanggo njaga kesehatan jantung, pencernaan, lan kekebalan awak.</string>
+
+    <string name="rambutan_title">Rambutan</string>
+    <string name="rambutan_description">Rambutan iku woh tropis sing gampang dikenali saka kulite sing berambut unik. Woh iki asalé saka wit rambutan (Nephelium lappaceum) ing Asia Tenggara.
+
+\n\nKulite rambutan warna ijo nalika isih enom, banjur dadi abang cerah utawa kuning nalika mateng. "Rambut" ing kulite sejatiné duri alus sing ora tajem. Isine putih transparan, seger, lan rasa manis rada asem.
+
+\n\nRambutan sugih vitamin C, serat, lan antioksidan. Woh iki dadi sumber karbohidrat lan mineral kaya zat besi, tembaga, lan mangan.
+</string>
+    <string name="alih_bahasa">Ganti Basa</string>
+    <string name="share">Bagèkna Deskripsi</string>
+</resources>

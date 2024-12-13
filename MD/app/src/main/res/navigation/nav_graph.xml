@@ -1,0 +1,86 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.gazura.projectcapstone.ui.home.HomeFragment"
+        android:label="@string/title_home">
+        <action
+            android:id="@+id/action_homeFragment_to_imageDescriptionFragment"
+            app:destination="@id/imageDescriptionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_scan"
+        android:name="com.gazura.projectcapstone.ui.scan.ScanFragment"
+        android:label="@string/title_scan">
+        <action
+            android:id="@+id/action_scanFragment_to_resultFragment"
+            app:destination="@id/resultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.gazura.projectcapstone.ui.history.HistoryFragment"
+        android:label="history" >
+        <action
+            android:id="@+id/action_navigation_history_to_navigation_detail_history"
+            app:destination="@id/navigation_detail_history" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_detail_history"
+        android:name="com.gazura.projectcapstone.ui.history.DetailHistoryFragment"
+        android:label="detail history" >
+        <argument
+            android:name="id"
+            app:argType="string" />
+        <argument
+            android:name="predictedClass"
+            app:argType="string" />
+        <argument
+            android:name="confidence"
+            app:argType="string" />
+        <argument
+            android:name="recommendation"
+            app:argType="string" />
+        <argument
+            android:name="imageUri"
+            app:argType="string"
+            />
+        <argument
+            android:name="date"
+            app:argType="string"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.gazura.projectcapstone.ui.profile.ProfileFragment"
+        android:label="@string/title_profile" />
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.gazura.projectcapstone.ui.scan.ResultFragment"
+        android:label="ResultFragment"
+        tools:layout="@layout/fragment_result">
+        <argument
+            android:name="imageName"
+            app:argType="string" />
+        <argument
+            android:name="predictedClass"
+            app:argType="string" />
+        <argument
+            android:name="confidence"
+            app:argType="string" />
+        <argument
+            android:name="recommendation"
+            app:argType="string" />
+        <argument
+            android:name="imageUri"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/imageDescriptionFragment"
+        android:name="com.gazura.projectcapstone.ui.home.deskripsi.ImageDescriptionFragment"
+        android:label="Image Description"
+        tools:layout="@layout/fragment_image_description" />
+</navigation>

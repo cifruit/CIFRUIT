@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/item_container"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:paddingLeft="10dp"
+            android:orientation="horizontal">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/gambar_rv_buah"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:src="@drawable/buahnaga"
+                android:scaleType="centerCrop"
+                />
+            <LinearLayout
+                android:id="@+id/rii8m645xm7r"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_marginStart="15dp"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/rv_nama_buah"
+                    android:textSize="15sp"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Buah Naga"
+                    />
+                <TextView
+                    android:id="@+id/tv_rekomendasi"
+                    android:fontFamily="@font/montserrat"
+                    android:textSize="12sp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                   android:layout_marginTop="10dp"
+                    android:text="Lorem Ipsum"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:scrollHorizontally="false"
+                    />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="10dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                >
+                <TextView
+                    android:id="@+id/indikator"
+                    android:layout_gravity="right"
+                    android:gravity="bottom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/montserrat_semibold"
+                    android:textSize="12sp"
+                    android:text="50%"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:backgroundTint="@color/black"
+            />
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
