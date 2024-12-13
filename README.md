@@ -103,5 +103,5 @@ We welcome contributions to CIFRUIT! Whether you're interested in helping improv
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.text) file for details.
 
