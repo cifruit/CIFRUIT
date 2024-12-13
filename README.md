@@ -2,7 +2,7 @@
 ## Bangkit 2024 batch 2 Product Capstone 
 
 <div style="text-align: right;">
-    <img src="github_assets/logocifruit" alt="logocifruit" width="600" style="display: inline-block;"/>
+    <img src="github_assets/logocifruit.jpg" alt="logocifruit" width="600" style="display: inline-block;"/>
 </div>
 
 ## Overview
