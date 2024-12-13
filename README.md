@@ -1,6 +1,10 @@
 # CIFRUIT (Mobile Application for Fruit Ripeness )
 ## Bangkit 2024 batch 2 Product Capstone 
 
+<div style="text-align: right;">
+    <img src="github_assets/logocifruit" alt="logocifruit" width="600" style="display: inline-block;"/>
+</div>
+
 ## Overview
 CIFRUIT is an innovative solution designed to address key challenges in agriculture by leveraging machine learning and computer vision technologies to automate the detection and classification of fruit ripeness. Using advanced image recognition techniques, CIFRUIT provides accurate, efficient, and non-destructive methods for assessing fruit maturity. This application will support better harvest decisions, optimize post-harvest handling processes, reduce food waste, and improve product quality. Additionally, CIFRUIT promotes sustainable agriculture by empowering farmers, distributors, and consumers with an easy-to-use platform that enhances agricultural practices.
 
