@@ -35,7 +35,7 @@ Aplication:
     <img src="github_assets/halamanawal.jpg" alt="halamanawal" width="200" style="display: inline-block;"/>
     <img src="github_assets/halamanawal2.jpg" alt="halamanawal 2" width="200" style="display: inline-block;"/>
     <img src="github_assets/homebuah.jpg" alt="buatakun" width="200" style="display: inline-block;"/>
-    <img src="github_assets/seputarbuah.jpg" alt="buatakun" width="200" style="display: inline-block;"/>
+    <img src="github_assets/seputarbuah2.jpg" alt="buatakun" width="200" style="display: inline-block;"/>
     <img src="github_assets/pindai1.jpg" alt="pindai1" width="200" style="display: inline-block;"/>
     <img src="github_assets/profilcifruit.jpg" alt="profilcifruit" width="200" style="display: inline-block;"/>
     <img src="github_assets/riwayat.jpg" alt="riwayat" width="200" style="display: inline-block;"/>
